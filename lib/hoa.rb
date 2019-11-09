@@ -10,7 +10,7 @@ def add_character(show, name)
   BASE_HOA[:third_earthers].push("Snarf")
   BASE_HOA[:jetsons].push("Astro")
   
-  BASE_HOA[show]
+  BASE_HOA[show][:chipmunks]
   
   
   # Write your implementation here
