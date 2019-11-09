@@ -12,7 +12,7 @@ def add_character(show, name)
   BASE_HOA[:jetsons].push("Astro")
   
   
-  
+  BASE_HOA
   
   # Write your implementation here
   # Should return the array of the 'show' argument
