@@ -9,7 +9,7 @@ def add_character(show, name)
   BASE_HOA[:chipmunks].push("Dave")
   
   
-  BASE_HOA
+  BASE_HOA[:chipmunks]
   # Write your implementation here
   # Should return the array of the 'show' argument
 end
